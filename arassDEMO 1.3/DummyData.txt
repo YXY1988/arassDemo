@@ -1,0 +1,22 @@
+AssMesBegin
+1
+PartListBegin
+PartBegin
+安装基准件
+0
+0
+SPIRAL
+CURRENT
+SMatrixBegin
+1.000 0.000 0.000  0.000
+0.000 1.000 0.000  0.000
+0.000 0.000 1.000  0.000
+20.000 20.000 0.000  1.000
+EMatrixBegin
+1.000 0.000 0.000  0.000
+0.000 1.000 0.000  0.000
+0.000 0.000 1.000  0.000
+100.000 150.000 0.000  1.000
+cow.osg
+PartEnd
+PartListEnd

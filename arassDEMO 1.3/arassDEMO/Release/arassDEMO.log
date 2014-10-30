@@ -1,0 +1,8 @@
+﻿  CAnimData.cpp
+  CAssInstruct.cpp
+  main.cpp
+  Cpartdata.cpp
+Cpartdata.cpp(57): warning C4101: “r_Num”: 未引用的局部变量
+  正在生成代码
+  已完成代码的生成
+  arassDEMO.vcxproj -> D:\ARdemo\arassDEMO 1.3\Release\arassDEMO1.3.exe
